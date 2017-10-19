@@ -1,3 +1,3 @@
 # lessons-learnt
-my collection of Zikula lessons lerant
+my collection of ZK lessons learnt
 
